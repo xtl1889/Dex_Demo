@@ -24,6 +24,7 @@ public class Main2Activity extends AppCompatActivity {
         initView();
     }
 
+    // 分支测试提交11111
     private void setData() {
         mExplanModleList=new ArrayList<>();
         ExplanModle explanModle;
