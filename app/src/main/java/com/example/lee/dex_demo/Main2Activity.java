@@ -43,6 +43,7 @@ public class Main2Activity extends AppCompatActivity {
             mExplanModleList.add(explanModle);
         }
     }
+    //分支测试提交22222222222222
 
     // master 分支测试提交
     private void initView() {
