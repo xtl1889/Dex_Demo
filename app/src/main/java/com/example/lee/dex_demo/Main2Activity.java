@@ -44,6 +44,7 @@ public class Main2Activity extends AppCompatActivity {
         }
     }
 
+    // master 分支测试提交
     private void initView() {
         expandableListView= (ExpandableListView) findViewById(R.id.explanList);
         mExplanListAdapter=new ExplanListAdapter(this,mExplanModleList);
